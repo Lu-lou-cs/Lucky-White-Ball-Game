@@ -9,3 +9,4 @@ python main.py
 ---
 ## Videos
 - Code Demo: https://youtu.be/xUv5WR41tpA
+- Code Walkthrough: https://youtu.be/kUBpPVW0BrY
